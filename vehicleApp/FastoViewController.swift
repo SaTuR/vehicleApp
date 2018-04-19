@@ -26,6 +26,7 @@ class FastoViewController: UIViewController {
         super.viewDidLoad()
         disableResizing()
         titleLabel.text="FASTO"
+        descriptionText.text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eu mauris nec est volutpat volutpat. Suspendisse vitae aliquet augue, vel varius lacus. Donec purus elit, tincidunt sit amet nibh nec, laoreet dapibus urna. Donec nec purus porta, faucibus lacus nec, accumsan elit. Vivamus eget metus eget est placerat ultricies sed sed lectus. Mauris scelerisque orci lacus, eget condimentum turpis molestie sed. Aliquam tincidunt ultrices ante, vel dignissim elit fermentum in. Duis dapibus magna quis lorem vehicula, sit amet pellentesque arcu viverra. Praesent in dolor ut neque dictum tempor ut ut nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc fermentum lorem at imperdiet porta. Mauris vestibulum leo quis ante lobortis, ut sagittis arcu ornare. Vestibulum at feugiat purus. Donec convallis finibus mi, ac egestas lacus hendrerit vel."
         
         imageView1.image = UIImage(named: "fasto1")
         imageView2.image = UIImage(named: "fasto2")

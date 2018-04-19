@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4506E8A120882BB300F65DD6 /* Tarea.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 4506E8A020882BB300F65DD6 /* Tarea.pdf */; };
 		4527CC10207ED202003D74AD /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4527CC0F207ED202003D74AD /* Storyboard.storyboard */; };
 		45A51892207490A900437373 /* KybosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A51891207490A900437373 /* KybosViewController.swift */; };
 		45A51894207490D800437373 /* MontanaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A51893207490D800437373 /* MontanaViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4506E8A020882BB300F65DD6 /* Tarea.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Tarea.pdf; path = ../../../../Desktop/Tarea.pdf; sourceTree = "<group>"; };
 		4527CC0F207ED202003D74AD /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		45A51891207490A900437373 /* KybosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KybosViewController.swift; sourceTree = "<group>"; };
 		45A51893207490D800437373 /* MontanaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MontanaViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 		45C28EBA20681DAC00966BF1 /* vehicleApp */ = {
 			isa = PBXGroup;
 			children = (
+				4506E8A020882BB300F65DD6 /* Tarea.pdf */,
 				45C28EBB20681DAC00966BF1 /* AppDelegate.swift */,
 				45C28EBD20681DAC00966BF1 /* ViewController.swift */,
 				45B2AFA3206F393E007716FA /* FastoViewController.swift */,
@@ -243,6 +246,7 @@
 			files = (
 				45C28EC620681DAC00966BF1 /* LaunchScreen.storyboard in Resources */,
 				4527CC10207ED202003D74AD /* Storyboard.storyboard in Resources */,
+				4506E8A120882BB300F65DD6 /* Tarea.pdf in Resources */,
 				45C28EC320681DAC00966BF1 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
